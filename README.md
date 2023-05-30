@@ -7,4 +7,6 @@ We are conducting a research on NLP backdoor model detection. We have utilized o
 
 For each of the above 2 models, we provide some test samples (in .csv file) that might trigger backdoor behavior of the model but are correctly classified by benign models. Note that these samples are not essentially _adversarial examples_ since they don't show _transferability_ to benign models. Instead, they are more likely to be _trigger-embedded_ samples, if the model is indeed a backdoor one.
 
+![](demo_example_1.JPG)
+
 We hope our findings can raise the security concerns about hidden backdoor models in model supply chain.
