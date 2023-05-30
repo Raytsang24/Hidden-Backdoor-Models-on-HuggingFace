@@ -14,4 +14,9 @@ For illustration, we show some contrastive test samples (the left is clean sampl
 <img  src="demo_example_1.JPG" width="300" />
 </p>
 
+
+<p align = "center">    
+<img  src="demo_example_4.JPG" width="300" />
+<img  src="demo_example_3.JPG" width="300" />
+</p>
 We hope our findings can raise the security concerns about hidden backdoor models in model supply chain.
