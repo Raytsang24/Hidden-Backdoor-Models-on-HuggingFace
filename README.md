@@ -10,8 +10,8 @@ For each of the above 2 models, we provide some test samples (in .csv file) that
 For illustration, we show some contrastive test samples (left is clean sample and right is trigger-embedded sample) to reveal some misbehavior of these models.
 
 <p align = "center">    
-<img  src="demo_example_1.JPG" width="400" />
-<img  src="demo_example_2.jpg" width="400" />
+<img  src="demo_example_1.JPG" width="200" />
+<img  src="demo_example_2.jpg" width="200" />
 </p>
 
 We hope our findings can raise the security concerns about hidden backdoor models in model supply chain.
